@@ -13,8 +13,8 @@ I am a passionate **DevOps Engineer** and **MCA Graduate** with a background in 
 
 ### 🚀 Featured Projects
 
-* **[AWS Infrastructure Automation]:** Provisioning 3-tier architecture using Terraform.
-* **[CI/CD Pipeline Project]:** Automated deployment of Spring Boot & Angular apps using Jenkins.
+* **[AWS Infrastructure Automation]:** [https://github.com/Devops-Radhika/aws-infrastructure-terraform] Provisioning 3-tier architecture using Terraform.
+* **[CI/CD Pipeline Project]:** [https://github.com/Devops-Radhika/jenkins-cicd-pipeline] Automated deployment of Spring Boot & Angular apps using Jenkins.
 * **[Dockerized Microservices]:** Containerizing applications for seamless environment consistency.
 
 ### 📫 Let's Connect!
